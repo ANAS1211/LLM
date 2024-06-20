@@ -22,6 +22,9 @@ dans le RAG l'utilisateur pose une question
 In this course we'll use a toy search engine elastic search, vector search
 
 1.2 Preparing the environnement
+    pip install python tqdm notebook==7.1.2 openai elasticsearch scikit-learn pandas
+    we need a key of openAI
+     => aller sur openAI => rubrique Api => créer une clé
 
 
 
