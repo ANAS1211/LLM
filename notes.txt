@@ -1,0 +1,29 @@
+1- Learn what are LLM and RAG
+2- RAG pipeline to answer questions about the FAQ documents from our Zoomcamp courses
+3- creer un formulaire dans lequel on pose une question et on reçoit la réponse
+
+LLM: Large Language Model
+LM: predict the next word based on the word you've written
+LLM: have milions of parameters and trained on huge volumes of data
+    Neural network, nodes, ...
+
+Input is text (Prompt) and Context
+Output is answer
+
+RAG: Retrieval Augmentad Generation
+Retrieval= Search
+Generation=LLM
+
+Knowledge Base ++ LLM
+
+dans le RAG l'utilisateur pose une question
+    la question est envoyée à une KB base de connaissances
+
+In this course we'll use a toy search engine elastic search, vector search
+
+1.2 Preparing the environnement
+
+
+
+
+
